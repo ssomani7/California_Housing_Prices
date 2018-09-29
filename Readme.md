@@ -6,7 +6,7 @@ This data has metrics such as the population, median income, median housing pric
 
 ## Performance Measure
 
-System uses multiple features to make a prediction (it will use the district’s population, the median income, etc.). This classifies for a **Multivariate Regression Problem**. Hence the performance measure choosen for this is **_RMSE_** (Root Mean Square Error).
+System uses multiple features to make a prediction (it will use the district’s population, the median income, etc.). This classifies for a **Multivariate Regression Problem**. Hence the performance measure chosen for this is **_RMSE_** (Root Mean Square Error).
 
 ## Dependencies
 
