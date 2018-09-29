@@ -10,8 +10,7 @@ System uses multiple features to make a prediction (it will use the district’s
 
 ## Dependencies
 
-
-[Python3](https://www.python.org/downloads/)
+[Python3](https://www.python.org/downloads/) </br>
 [Anaconda Distribution (Jupyter Notebook)](https://conda.io/docs/user-guide/install/index.html)
 
 The libraries required are mentioned in requirements.txt
