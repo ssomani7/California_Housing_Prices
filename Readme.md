@@ -10,10 +10,10 @@ System uses multiple features to make a prediction (it will use the district’s
 
 ## Dependencies
 
-```
+
 [Python3](https://www.python.org/downloads/)
 [Anaconda Distribution (Jupyter Notebook)](https://conda.io/docs/user-guide/install/index.html)
-```
+
 The libraries required are mentioned in requirements.txt
 
 ## Installing
@@ -54,3 +54,4 @@ $ deactivate
 
 * O'Reilly Hands on Machine Learning with Scikit Learn and Tensorflow. 
 * The original dataset appeared in R. Kelley Pace and Ronald Barry, “Sparse Spatial Autoregressions,” Statistics & Probability Letters 33, no. 3 (1997): 291–297.
+
